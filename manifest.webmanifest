@@ -1,0 +1,14 @@
+{
+  "name": "EDH Lab — Commander deck analyzer",
+  "short_name": "EDH Lab",
+  "description": "Analyze Commander decks: curve, mana, combos, brackets and suggestions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#030304",
+  "theme_color": "#030304",
+  "orientation": "any",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
